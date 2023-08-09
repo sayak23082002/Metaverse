@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.3",
+    "dotenv": "^16.3.1",
+    "three": "^0.154.0"
+  },
+  "devDependencies": {
+    "hardhat": "^2.17.0",
+    "vite": "^4.4.7"
+  }
+}
